@@ -1,0 +1,7 @@
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\BookRating\BookRating\bin\Debug\BookRating.exe.config
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\BookRating\BookRating\bin\Debug\BookRating.exe
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\BookRating\BookRating\bin\Debug\BookRating.pdb
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\BookRating\BookRating\obj\Debug\BookRating.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\BookRating\BookRating\obj\Debug\BookRating.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\BookRating\BookRating\obj\Debug\BookRating.exe
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\BookRating\BookRating\obj\Debug\BookRating.pdb
